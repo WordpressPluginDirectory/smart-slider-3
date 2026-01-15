@@ -3,8 +3,8 @@ Contributors: nextendweb
 Tags: slider, image slider, gallery, slideshow, carousel slider
 Donate link: https://sites.fastspring.com/nextend/product/smartslider3donate
 Requires at least: 5.0
-Tested up to: 6.8.3
-Stable tag: 3.5.1.31
+Tested up to: 6.9
+Stable tag: 3.5.1.32
 Requires PHP: 7.0
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -216,6 +216,11 @@ Of course! Smart Slider use protocol relative urls which works fine on http:// a
 9. Enhance your site with our FREE Layer Slider's stylish layers for a better user experience.
 
 == Changelog ==
+
+= 3.5.1.32 - 12. January 2026 =
+* Fix: Drag and drop image uploading did not work.
+* Fix: Iframe loaded slider code improved.
+* Other: Black Friday notification removed.
 
 = 3.5.1.31 - 19. November 2025 =
 * Feature: Gutenberg block updated to v3 API.
